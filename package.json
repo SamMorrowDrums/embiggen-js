@@ -1,8 +1,9 @@
 {
   "name": "embiggen",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Javascript Embiggenation Engine",
   "main": "src/index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack"

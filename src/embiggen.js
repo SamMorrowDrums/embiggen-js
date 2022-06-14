@@ -9,7 +9,6 @@ export default function (array, optionalEmbiggenatorFn) {
 	const embiggenInPlace = Math.random() >= 0.8;
 	const embiggenLength = Math.random() <= 0.5;
 	const embiggenMagnitude = embiggenLength ? Math.random() <= 0.3 : true;
-	console.log({embiggenInPlace, embiggenArrayProperty, embiggenLength, embiggenMagnitude});
 	const outArray = embiggenInPlace ? array : array.slice();
 
 	if (embiggenArrayProperty) {
