@@ -2,7 +2,7 @@
 
 >  "A noble spirit embiggens the smallest array."
 
-A Javascript libraray that implements `Array.embiggen`, enabling you to embiggen an array of any type(s), using a variety of embiggenators.
+A Javascript library that implements `Array.embiggen`, enabling you to embiggen an array of any type(s), using a variety of embiggenators.
 
 ## Usage
 

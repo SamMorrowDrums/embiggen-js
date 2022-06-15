@@ -1,6 +1,6 @@
 {
   "name": "embiggen",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Javascript Embiggenation Engine",
   "main": "src/index.js",
   "scripts": {
